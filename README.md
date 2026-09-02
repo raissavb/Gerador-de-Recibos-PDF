@@ -1,6 +1,6 @@
 # Gerador de Recibos de Pagamento
 
-Aplicação em Python que gera recibos de pagamento em PDF, com layout profissional.
+Aplicação em Python que gera recibos de pagamento em PDF.
 
 ## Funcionalidades
 
