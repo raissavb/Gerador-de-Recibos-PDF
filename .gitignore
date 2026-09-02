@@ -1,19 +1,12 @@
-# Arquivo gerado pelo programa
 recibo.pdf
 *.pdf
 
-# Ambiente virtual (se usar)
 venv/
 env/
 .venv/
 
-# Cache do Python
 __pycache__/
 *.pyc
 
-# Configurações do VS Code (opcional manter)
-.vscode/
-
-# Arquivos do sistema
 .DS_Store
 Thumbs.db
